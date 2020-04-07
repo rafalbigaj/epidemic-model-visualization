@@ -1,0 +1,8 @@
+applications:
+ - name: covid19-infected-prediction
+   memory: 256M
+   region: eu-de
+   command: python app.py
+   env:
+     WML_SCORING_URL: <the Watson Machine Learning scoring URL goes here>
+     WML_API_KEY: <the Watson Machine Learning instance API key goes here>

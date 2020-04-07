@@ -1,3 +1,4 @@
 dash==1.9.1
 dash_bootstrap_components==0.9.1
-watson-machine-learning-client>=1.0.378
+pandas==1.0.3
+requests==2.23.0
