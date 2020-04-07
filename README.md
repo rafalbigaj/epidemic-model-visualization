@@ -2,7 +2,7 @@
 
 This is a sample application showing how to visualize prediction results of a machine learning model 
 deployed on IBM Cloud. Please refer to the blog
-[Serving COVID-19 epidemic models with Watson Machine Learning](https://medium.com/@Lukasz.Cmielowski/378b6fe9407b)
+[Serving COVID-19 epidemic models with Watson Machine Learning](https://medium.com/@Lukasz.Cmielowski/serving-covid-19-epidemic-models-with-watson-machine-learning-378b6fe9407b)
 for details how to prepare and deploy such a model. 
 
 ## Prerequisites
